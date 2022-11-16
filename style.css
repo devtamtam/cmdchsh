@@ -1,0 +1,16 @@
+html{
+    background-color:#1D1D1F;
+    color: aliceblue;
+    line-height:40px;
+    font-family: 'Segoe UI';
+}
+
+.column-1{
+    color:aqua;
+    font-size: larger;
+}
+.column-2{
+    color:yellow;
+    font-size: large;
+}
+
